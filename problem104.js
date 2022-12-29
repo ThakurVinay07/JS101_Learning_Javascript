@@ -1,0 +1,25 @@
+let c="********************//////*******************************";
+let b="         ******🆂🆃🆄🅳🅴🅽🆃 🆁🅴🅿🅾🆁🆃 🅲🅰🆁🅳******       ";
+
+let name="Vinay Thakur"; 
+let Sname="Masai School";
+let grade="🅱";
+let Section="🅰";
+let Rollno="2̲4̲";
+let Marks1="7̅8̅ ";
+let Marks2="➑➋";
+let Marks3="8̅6̅ ";
+console.log(c);
+console.log(b);
+console.log("      Name : ",name);  
+console.log("      School Name :",Sname);
+console.log("      Grade :",grade);
+console.log("      Section",Section);
+console.log("      Roll No :",Rollno);
+ let a="         ****🅼🅰🆁🅺🆂 🅸🅽 🆃🅷🆁🅴🅴 🅳🅸🅵🅵🅴🆁🅴🅽🆃 🆂🆄🅱🅹🅴🅲🆃******";
+console.log(a);
+console.log("      Science :    ",Marks1);
+console.log("      Mathmetics : ",Marks2);
+console.log("      English :    ",Marks3);
+let d="**********************///////*******************************";
+console.log(d);
